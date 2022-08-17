@@ -1,0 +1,8 @@
+body{
+    background: url(../image/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+}
+p{
+    font-family: Red Hat Display;
+}
