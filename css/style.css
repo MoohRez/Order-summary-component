@@ -118,3 +118,8 @@
 .close-btn:hover{
     color: black;
 }
+.challeng{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
